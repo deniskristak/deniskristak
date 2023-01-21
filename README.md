@@ -2,11 +2,11 @@
 
 **`Digital Craftsman (Python Developer / ideas-to-life-bringer)`**
 
-Hi everyone 🤙, thanks for taking the time to check out my profile! 👀 <br />
-Basically, I am a software developer with some 4+ years of experience. ✍️ <br />
+Hi everyone 🤙,<br />
+thanks for taking the time to check out my profile! 👀 <br />
+I am a software developer with some 4+ years of experience. ✍️ <br />
 My favourite language is Python 🐍, but I'm not afraid to put my hands on any other tool, as long as it helps me to get where I want to be. <br />
-I am at my best when I can leverage my knowledge of backend development technologies and frameworks to build reliable and scalable software. <br />
-Showcasing my customers (clients, boss 👨‍💼) how I helped them is the cherry on top of my day. <br />
+I am at my best when I can leverage my knowledge of backend development technologies and frameworks to build reliable and scalable software. Showcasing my customers (clients, boss 👨‍💼) how I helped them is the cherry on top of my day. 🍒 <br />
 Btw, I also really fancy open source. 👌
 
 ---
@@ -58,9 +58,9 @@ Btw, I also really fancy open source. 👌
 <details>
  <summary>
    <h3>Zipf law in Slovak language 💹 🇸🇰 </h3>
-   <p>Zipf law is a well-known statistical law 📈, that grabbed my attention because of how counter-intuitive it is.
+   <p>Zipf law is a well-known statistical law 📈, that grabbed my attention because of how counter-intuitive it is. 🤔 </br>
      Here, go check this video from Vsauce, where he explains it very well ➡️ https://www.youtube.com/watch?v=fCn8zs912OE&ab_channel=Vsauce </p>
-   <p>Anyway, I tried to look up some research about it's occurences in my native language (Slovak), but I found only very limited results - only one published article, and they counted words manually! That is when I realised that there must be a better way. And there was! Check out my project to find out more about how I tackled this challenge using Python! ➡️ https://github.com/deniskristak/zipf-law-in-slovak-language </p>
+   <p>Anyway, I tried to look up some research about its occurence in my native language (Slovak), but only found very limited results - only one published article, and they counted words manually! That is when my curiosity took a hold of me and I've set myself to find out if there could be a better way to expore this weirdness in Slovak. And there was! Not only that, but I found a solution that can be used for many more languages! Check out my project to find out more about how I tackled this challenge using Python! ➡️ https://github.com/deniskristak/zipf-law-in-slovak-language </p>
   </summary>
     <img src="https://github.com/deniskristak/zipf-law-in-slovak-language/blob/main/output/plots/log_scale/sk/dom_v_strani.png?raw=true" style="flex: 1;">
 </details>

@@ -57,12 +57,12 @@ Btw, I also really fancy open source. 👌
 ## 📊 Projects I'm most proud of
 <details>
  <summary>
-   <h3>Formula1 Betting Competition</h3>
+   <h3>Formula1 Betting Competition :racing_car: :trophy: </h3>
    <p>An application that I developed for myself and my friends. We enjoy watching F1, so we created a little betting competition.</br>
-     As a platform for recording and evaluating our guesses, I created a [Django](https://www.djangoproject.com/) application.</br>
+     As a platform for recording and evaluating our guesses, I created a Django application.</br>
      Here it is: https://formula1-dashboard.herokuapp.com/dash/
      </p>
-   <p>It is a Django-based application with an extension of [Dash](https://dash.plotly.com/). This allows the resulting dashboard to display interactive graphs, tables etc. Even though the combination of Django and Dash isn't seen often at all, I loved it, as it allowed me to build a presentable app without being held back by my lack of deep front-end knowledge.</p>
+   <p>It is a Django-based application with an extension of Dash (https://dash.plotly.com/). This allows the resulting dashboard to display interactive graphs, tables etc. Even though the combination of Django and Dash isn't seen often at all, I loved it, as it allowed me to build a presentable app without being held back by my lack of deep front-end knowledge.</p>
    <p>Even though it is just a small application I've developed in my spare time, I am glad to have done it since I've learned a lot of new (and refreshed the old) and interesting information regarding requests, app deployment, design patterns, typing, just to name a few.</p>
   </summary>
     <img src="https://github.com/deniskristak/formula1_dashboard/blob/main/examples/dashboard.png" style="flex: 1;">

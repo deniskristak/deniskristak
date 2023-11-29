@@ -4,7 +4,7 @@
 
 Hi everyone 🤙,<br />
 thanks for taking the time to check out my profile! 👀 <br />
-I am a software developer with some 4+ years of experience. ✍️ <br />
+I am a software developer with some 5+ years of experience. ✍️ <br />
 My favourite language is Python 🐍, but I'm not afraid to put my hands on any other tool, as long as it helps me to get where I want to be. <br />
 I am at my best when I can leverage my knowledge of backend development technologies and frameworks to build reliable and scalable software. Showcasing my customers (clients, boss 👨‍💼) how I helped them is the cherry on top of my day. 🍒 <br />
 Btw, I also really fancy open source. 👌
